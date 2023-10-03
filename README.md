@@ -22,7 +22,7 @@ About This project and the reference link in this repo are for anyone who is int
 
 The Project Page enlisted as follows:
 
-- [x] **P1-** Phone Gallery Demonstration
+- [x] **P1-** Photo Gallery Demonstration
 
 ## Project Description:
 
